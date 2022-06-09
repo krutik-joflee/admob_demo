@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235932413530",
+    "project_id": "admob-krutik-demo",
+    "storage_bucket": "admob-krutik-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235932413530:android:bb761733d060d241ff3263",
+        "android_client_info": {
+          "package_name": "com.example.admob_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235932413530-h0ksnutqcsdeal2f8e8fsuhgu1fioa40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4kmBtLHNobFqrZQqGTWc3P8tD82w7JqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235932413530-h0ksnutqcsdeal2f8e8fsuhgu1fioa40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
